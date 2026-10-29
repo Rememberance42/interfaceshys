@@ -13,7 +13,7 @@ static const char ESP_NOW_PMK[] = "pmkshjshdjsdhfcdfdsf";
 static const char ESP_NOW_LMK[] = "lmkshjshdjsdhfcdfdsf";
 
 // MAC address of the RECEIVER board
-uint8_t peer_mac[6] = {0x68, 0xb6, 0xb3, 0x53, 0x01, 0xa8};
+uint8_t peer_mac[6] = {0x78, 0xb8, 0xb9, 0x03, 0x03, 0xa9};
 
 const char dataR[] = "255|0|0";
 const char dataG[] = "0|255|0";
